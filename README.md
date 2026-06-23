@@ -267,7 +267,7 @@ Add screenshots before submission.
 
 ### Dashboard Builder
 
-![Dashboard Builder](Screenshots/Dashboard-builder.png)
+![Basic Dashboard builder you can customized the builder based on your needs.](Screenshots/Dashboard_builder.png)
 
 ### Chart Editing
 
