@@ -265,17 +265,21 @@ Uploads images and stores metadata.
 
 Add screenshots before submission.
 
-### Dashboard Builder
+### Basic Dashboard builder you can customized the builder based on your needs also with autosubmit option where you can add new section , you can add elements Also cutomized the font and save the layout features.
 
-![Basic Dashboard builder you can customized the builder based on your needs.](Screenshots/Dashboard_builder.png)
+![Dashboard Builder](Screenshots/Dashboard_builder.png)
 
-### Chart Editing
+### You can customized your layout with texts where you can edit the text,resize the text and also customized it with various options from text formatting in sidebar.
 
-![Chart Editing](screenshots/chart-editing.png)
+![Chart Section](screenshots/Header_Section.png)
 
-### Image Upload
+### You can customized your layout with charts like Bar and line. You can also adjust the size of the charts and adjust the position. 
 
-![Image Upload](screenshots/image-upload.png)
+![Chart Section](screenshots/Chart_Section.png)
+
+### You can also upload images and resize the image according to the need. 
+
+![Image Upload](screenshots/Image_Section.png)
 
 ---
 
