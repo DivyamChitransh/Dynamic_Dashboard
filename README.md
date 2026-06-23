@@ -4,7 +4,7 @@ A dynamic dashboard builder built using React, PHP, and MySQL that allows users 
 Users can create sections, add widgets such as text, images, bar charts, and line charts, customize their layout, and persist the dashboard configuration in a MySQL database.
 This project demonstrates frontend component architecture, API integration, file uploads, chart visualization, state management, and database persistence.
 
-(Screenshots/Overall-View.png)
+![Overall View](Screenshots/Overall-View.png)
 
 ---
 
@@ -285,7 +285,7 @@ Add screenshots before submission.
 
 ### Final view of the editor after the final adjustments and changes. 
 
-![Image Upload](Screenshots/Overall-View.png)
+![Overall View](Screenshots/Overall-View.png)
 
 ---
 
