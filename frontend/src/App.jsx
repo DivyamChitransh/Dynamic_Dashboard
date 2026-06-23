@@ -174,7 +174,7 @@ export default function App() {
 
   const selectedElement = sections.flatMap(s => s.elements).find(el => el.id === selectedElementId) || null
 
-  // Sync formatting panel when a text element is selected
+
   useEffect(() => {
     if (selectedElement && selectedElement.type === 'text') {
       setFormatting({
@@ -189,7 +189,7 @@ export default function App() {
 
   const handleFormattingChange = (key, val) => {
     setFormatting(f => ({ ...f, [key]: val }))
-    // Apply directly to selected text element
+    
     if (selectedElementId) {
       const el = sections.flatMap(s => s.elements).find(e => e.id === selectedElementId)
       if (el && el.type === 'text') {
