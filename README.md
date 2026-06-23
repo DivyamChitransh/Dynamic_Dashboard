@@ -271,7 +271,7 @@ Add screenshots before submission.
 
 ### You can customized your layout with texts where you can edit the text,resize the text and also customized it with various options from text formatting in sidebar.
 
-![Chart Section](screenshots/Header_Section.png)
+![Text Section](screenshots/Header_Section.png)
 
 ### You can customized your layout with charts like Bar and line. You can also adjust the size of the charts and adjust the position. 
 
